@@ -2,7 +2,7 @@
 
 ### This was a project for CMPT 276 (Intro to Software Engineering) taken in Summer 2018 with Brian Fraser. I worked with 3 other team members to create this application.
 
-##### Unfortunately, this project relies on API Keys, and a server that are not provided. Therefore it is not usable in it's current state.
+##### Unfortunately, this project relies on API Keys, and a server is not provided in the code. Therefore it is not usable in it's current state.
 
 Walking Group is an Android application that encourages students to walk to class. It gives them features to walk safely with a walking group, and communicate with group leaders and their parents. Parents of the student can also monitor their children, keeping them safe.
 
